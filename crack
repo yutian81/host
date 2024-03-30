@@ -69,11 +69,11 @@
 127.0.0.1  secure.ipp.corel.com
 127.0.0.1  www.corelstore.com
 127.0.0.1  edgesuite.net
-0.0.0.0    dev1.ipm.corel.public.corel.net
+127.0.0.1    dev1.ipm.corel.public.corel.net
 
 # 屏蔽Mindjet 联网验证
-0.0.0.0 www.mindjet.com
-0.0.0.0 mindjet.com
+127.0.0.1 www.mindjet.com
+127.0.0.1 mindjet.com
 
 # 屏蔽Adobe软件联网验证
 127.0.0.1 activate.adobe.com
@@ -112,109 +112,109 @@
 127.0.0.1 ood.opsource.net
 127.0.0.1 3dns-3.adobe.com
 127.0.0.1 3dns-2.adobe.com
-127.0。0.1 activate-sea.adobe.com
-127.0。0.1 wwis-dubc1-vip60.adobe.com
-127.0。0.1 activate-sjc0.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
 
 # 屏蔽广联达CAD快速看图联网验证
-127.0。0.1 backup.lumion3d.net
-127.0。0.1 license.lumion3d.net
-127.0。0.1 backup.lumion3d.com
-127.0。0.1 activate.lumion3d.com
-127.0。0.1 license.lumiontech.net
-127.0。0.1 upload.lumion3d.net
-127.0。0.1 upload.lumion3d.com
-127.0。0.1  cad.glodon.com 
+127.0.0.1 backup.lumion3d.net
+127.0.0.1 license.lumion3d.net
+127.0.0.1 backup.lumion3d.com
+127.0.0.1 activate.lumion3d.com
+127.0.0.1 license.lumiontech.net
+127.0.0.1 upload.lumion3d.net
+127.0.0.1 upload.lumion3d.com
+127.0.0.1  cad.glodon.com 
 
 # 屏蔽CAD迷你看图联网验证
-127.0。0.1 app.com
+127.0.0.1 app.com
 
 # 屏蔽bandicam联网验证
-127.0。0.1 bandicam.com
-127.0。0.1 ssl.bandisoft.com
+127.0.0.1 bandicam.com
+127.0.0.1 ssl.bandisoft.com
 
 # 屏蔽aimersoft视频转换软件联网验证
-127.0。0.1 platform.aimersoft.com
+127.0.0.1 platform.aimersoft.com
 
 # 屏蔽nero软件联网验证
-127.0。0.1 nero.com
-127.0。0.1 www.nero.com
-127.0。0.1 www2.nero.com
-127.0。0.1 wwww.nero.com
-127.0。0.1 install.nero.com
-127.0。0.1 my.nero.com  
-127.0。0.1 secure.nero.com/us/secure.asp 
-127.0。0.1 activation@nero.com 
-127.0。0.1 registernero.com
-127.0。0.1 www.registernero.com 
-127.0。0.1 legal@nero.com 
-127.0。0.1 support.nero.com
-127.0。0.1 iam.nero.com
-127.0。0.1 i2am.nero.com
-127.0。0.1 neroknowhow.com
-127.0。0.1 s3.neroknowhow.com
+127.0.0.1 nero.com
+127.0.0.1 www.nero.com
+127.0.0.1 www2.nero.com
+127.0.0.1 wwww.nero.com
+127.0.0.1 install.nero.com
+127.0.0.1 my.nero.com  
+127.0.0.1 secure.nero.com/us/secure.asp 
+127.0.0.1 activation@nero.com 
+127.0.0.1 registernero.com
+127.0.0.1 www.registernero.com 
+127.0.0.1 legal@nero.com 
+127.0.0.1 support.nero.com
+127.0.0.1 iam.nero.com
+127.0.0.1 i2am.nero.com
+127.0.0.1 neroknowhow.com
+127.0.0.1 s3.neroknowhow.com
 
 # 屏蔽avast软件联网验证
-127.0。0.1  www.ns2.avast.com
-127.0。0.1  www.pns.avast.com
-0。0.0.0  expire.eset.com
-0。0.0.0  edf.eset.com
+127.0.0.1  www.ns2.avast.com
+127.0.0.1  www.pns.avast.com
+127.0.0.1  expire.eset.com
+127.0.0.1  edf.eset.com
 
 # 屏蔽ESET联网验证
-0。0.0.0  expire.eset.com
-0。0.0.0  edf.eset.com
+127.0.0.1  expire.eset.com
+127.0.0.1  edf.eset.com
 
 #去除Flash区域限制
-0。0.0.0 geo2.adobe.com
-0。0.0.0 flash.cn
-0。0.0.0 www.flash.cn
+127.0.0.1 geo2.adobe.com
+127.0.0.1 flash.cn
+127.0.0.1 www.flash.cn
 
 # 屏蔽WPS联网验证
-127.0。0.1 snauth.wps.cn
-127.0。0.1 cloudservice7.kingsoft-office-service.com
+127.0.0.1 snauth.wps.cn
+127.0.0.1 cloudservice7.kingsoft-office-service.com
 
 # 屏蔽威力导演联网验证
-127.0。0.1 cap.cyberlink.com
-127.0。0.1 activation.cyberlink.com
+127.0.0.1 cap.cyberlink.com
+127.0.0.1 activation.cyberlink.com
 
 # 屏蔽IDM联网验证
-0。0.0.0 internetdownloadmanager.com
-0。0.0.0 mirror.internetdownloadmanager.com
-0。0.0.0 mirror2.internetdownloadmanager.com
-0。0.0.0 mirror3.internetdownloadmanager.com
-0。0.0.0 secure.internetdownloadmanager.com
-0。0.0.0 www.internetdownloadmanager.com
-0。0.0.0 registeridm.com
-0。0.0.0 www.registeridm.com
-0。0.0.0 secure.registeridm.com
-0。0.0.0 tonec.com
-0。0.0.0 www.tonec.com
+127.0.0.1 internetdownloadmanager.com
+127.0.0.1 mirror.internetdownloadmanager.com
+127.0.0.1 mirror2.internetdownloadmanager.com
+127.0.0.1 mirror3.internetdownloadmanager.com
+127.0.0.1 secure.internetdownloadmanager.com
+127.0.0.1 www.internetdownloadmanager.com
+127.0.0.1 registeridm.com
+127.0.0.1 www.registeridm.com
+127.0.0.1 secure.registeridm.com
+127.0.0.1 tonec.com
+127.0.0.1 www.tonec.com
 
 # 屏蔽 Topaz Gigapixel AI 联网验证
-127.0。0.1 auth.topazlabs。com
+127.0.0.1 auth.topazlabs.com
 
 # 屏蔽 UEedit 联网验证
-127.0。0.1 swupdate.ultraedit.com
-127.0。0.1 licensing.ultraedit.com
+127.0.0.1 swupdate.ultraedit.com
+127.0.0.1 licensing.ultraedit.com
 
 # 屏蔽傲梅软件联网验证
-127.0。0.1 www.aomeitech.com
+127.0.0.1 www.aomeitech.com
 
 # 屏蔽ACDSee联网验证
-127.0。0.1 acdid.acdsystems.com
+127.0.0.1 acdid.acdsystems.com
 
 # 屏蔽Iobit联网验证
-127.0。0.1 idb.iobit.com
-127.0。0.1 asc55.iobit.com
-127.0。0.1 asc.iobit.com
-127.0。0.1 pf.iobit.com
-127.0。0.1 iunins.iobit.com
+127.0.0.1 idb.iobit.com
+127.0.0.1 asc55.iobit.com
+127.0.0.1 asc.iobit.com
+127.0.0.1 pf.iobit.com
+127.0.0.1 iunins.iobit.com
 
 # 屏蔽梨子软件联网验证
-0。0.0.0 analytics.ff.avast.com
-0。0.0.0 ipm-provider.ff.avast.com
-0。0.0.0 license.piriform.com
-0。0.0.0 www.ccleaner.com
-0。0.0.0 shepherd.ff.avast.concc.avast.com
-0。0.0.0 ncc.avast.com.edgesuite.net
-0。0.0.0 ip-info.ff.avast.com
+127.0.0.1 analytics.ff.avast.com
+127.0.0.1 ipm-provider.ff.avast.com
+127.0.0.1 license.piriform.com
+127.0.0.1 www.ccleaner.com
+127.0.0.1 shepherd.ff.avast.concc.avast.com
+127.0.0.1 ncc.avast.com.edgesuite.net
+127.0.0.1 ip-info.ff.avast.com
