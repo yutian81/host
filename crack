@@ -137,24 +137,6 @@
 # 屏蔽aimersoft视频转换软件联网验证
 127.0.0.1 platform.aimersoft.com
 
-# 屏蔽nero软件联网验证
-127.0.0.1 nero.com
-127.0.0.1 www.nero.com
-127.0.0.1 www2.nero.com
-127.0.0.1 wwww.nero.com
-127.0.0.1 install.nero.com
-127.0.0.1 my.nero.com  
-127.0.0.1 secure.nero.com/us/secure.asp 
-127.0.0.1 activation@nero.com 
-127.0.0.1 registernero.com
-127.0.0.1 www.registernero.com 
-127.0.0.1 legal@nero.com 
-127.0.0.1 support.nero.com
-127.0.0.1 iam.nero.com
-127.0.0.1 i2am.nero.com
-127.0.0.1 neroknowhow.com
-127.0.0.1 s3.neroknowhow.com
-
 # 屏蔽avast软件联网验证
 127.0.0.1  www.ns2.avast.com
 127.0.0.1  www.pns.avast.com
@@ -170,7 +152,7 @@
 127.0.0.1 flash.cn
 127.0.0.1 www.flash.cn
 
-# 屏蔽WPS联网验证
+# 屏蔽WPS专业版联网验证
 127.0.0.1 snauth.wps.cn
 127.0.0.1 cloudservice7.kingsoft-office-service.com
 
